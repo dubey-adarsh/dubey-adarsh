@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Adarsh Dubey
-- 👀 I’m interested in Data Analysis .
-- 🌱 I’m currently learning some BI tools
-- 💞️ I’m looking to collaborate on Data Analysis project 
-- 📫 How to reach me ... https://www.linkedin.com/in/adarshdwivedi-/
+# Hi there! 👋 I'm Adarsh Dubey
 
-<!---
-dubey-adarsh/dubey-adarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 AI Framework Operations Engineer | Deep Learning Researcher
+
+Welcome to my GitHub! I'm passionate about building high-performance AI systems and optimizing deep learning frameworks for scalable applications.
+
+### 🔭 What I'm Currently Working On
+- **High-Performance Deep Learning Software Stack** for scalable LLM training
+- **Intel XPU Framework Testing** - TorchFT and distributed training optimization
+- **Open Source Contributions** to Meta's Gloo communication backend
+- **Compiler Optimization** for CUTLASS infrastructure on Intel Xe GPUs
+
+### 🎯 Recent Projects
+- **Sliding Window Flash Attention Algorithm** - Achieved 65% computational savings with intelligent block classification
+- **Distributed Training Optimization** - Implemented DeepSpeed, FSDP strategies achieving 93.8% GPU utilization
+- **Topology-Aware Monocular Depth Estimation** - Enhanced geometric consistency in 3D depth prediction
+
+### 💻 Tech Stack
+```python
+frameworks = ["PyTorch", "TensorFlow", "JAX", "DeepSpeed"]
+languages = ["Python", "C++", "CUDA", "SQL"]
+hardware = ["NVIDIA GPUs", "Intel XPU", "Multi-GPU Clusters"]
+specialties = ["Distributed Training", "Computer Vision", "LLM Optimization"]
