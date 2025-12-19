@@ -21,3 +21,22 @@ frameworks = ["PyTorch", "TensorFlow", "JAX", "DeepSpeed"]
 languages = ["Python", "C++", "CUDA", "SQL"]
 hardware = ["NVIDIA GPUs", "Intel XPU", "Multi-GPU Clusters"]
 specialties = ["Distributed Training", "Computer Vision", "LLM Optimization"]
+
+### 🏆 Achievements
+🎓 M.Tech Machine Learning & Computing - IIST
+🏅 GATE Mathematics Rank 245 (2024)
+📚 ACM Winter School on Edge AI - IISc Bangalore (2025)
+
+### 🌱 Learning & Growing
+Advanced GPU kernel optimization
+Multi-hardware AI framework development
+Large-scale distributed systems
+
+### 📫 Let's Connect!
+💼 LinkedIn: https://www.linkedin.com/in/adarshdwivedi-/
+📧 Email: adarshiist@gmail.com
+🤝 Open to Collaborate On
+AI framework optimization projects
+Distributed training research
+Computer vision applications
+Open source contributions
