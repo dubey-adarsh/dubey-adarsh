@@ -21,6 +21,7 @@ frameworks = ["PyTorch", "TensorFlow", "JAX", "DeepSpeed"]
 languages = ["Python", "C++", "CUDA", "SQL"]
 hardware = ["NVIDIA GPUs", "Intel XPU", "Multi-GPU Clusters"]
 specialties = ["Distributed Training", "Computer Vision", "LLM Optimization"]
+```
 
 ### 🏆 Achievements
 🎓 M.Tech Machine Learning & Computing - IIST
